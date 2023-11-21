@@ -1,10 +1,10 @@
 +++
-title = 'My First Post'
+title = 'Mon premier post de test'
 date = 2023-11-14T11:39:50+01:00
 draft = true
 +++
-## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+
+Ceci est mon premier **post** de test sur GitHub Pages
 
 Visit the [Hugo](https://gohugo.io) website!
