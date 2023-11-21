@@ -1,1 +1,10 @@
----title: "Mon Premier Article"date: 2023-11-12draft: falsetags: ["blog", "hugo"]categories: ["Développement Web", "Tutoriels"]author: "Jean Dupont"---
++++
+title = 'Mon premier article'
+date = 2023-11-18T09:14:46+01:00
+draft = true
++++
+
+
+Ceci est mon premier **Article** GitHub Pages
+
+Visit the [Hugo](https://gohugo.io) website!
